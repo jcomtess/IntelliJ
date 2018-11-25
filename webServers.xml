@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d8ac480-a04e-4b61-9c7e-2d07e50b05e8" name="intellij_proj" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/projects/intellij_projects" accessType="MOUNT" />
+      </webServer>
+      <webServer id="ad42240a-25d5-467d-8a31-b97b115a0550" name="pycharm_proj" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/projects/PyCharm_projects" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
